@@ -1,8 +1,8 @@
-Project Title: Predict Resturant Ratingds Using linear regression and decision tree regression in Machine Learning Technology.
+# Project Title: Predict Resturant Ratingds Using linear regression and decision tree regression in Machine Learning Technology.
 
-Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
+# Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
 
-Steps:
+# Steps:
 
 1.Preprocess the dataset by handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
 
