@@ -2,7 +2,7 @@
 Predict Resturant Ratings Using linear regression and decision tree regression in Machine Learning Technology.
 
 # Objective: 
-Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
+To build a machine learning model to predict the aggregate rating of a restaurant based on other features.
 
 # Steps:
 
